@@ -27,3 +27,5 @@ export default function FundingBarChart({ data }) {
 
   return <Bar data={chartData} options={{ responsive: true, plugins: { title: { display: true, text: 'Total Funding by Year' } } }} />;
 }
+
+//create FundingBarChart component
