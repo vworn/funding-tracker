@@ -32,3 +32,5 @@ export default function IndustryTrendChart({ data }) {
     />
   );
 }
+
+//create IndustryTrendChart component
